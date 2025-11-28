@@ -2,108 +2,108 @@
 
 Focus: variables, operators, conditions, loops, functions, arrays
 
-Day 1 — Variables
+[]Day 1 — Variables
 Project: Name & Age Formatter
 
-Day 2 — Operators
+[]Day 2 — Operators
 Project: Simple Calculator
 
-Day 3 — Conditionals
+[]Day 3 — Conditionals
 Project: Grade Evaluator
 
-Day 4 — Functions
+[]Day 4 — Functions
 Project: Random Number Generator
 
-Day 5 — Loops
+[]Day 5 — Loops
 Project: Multiplication Table
 
-Day 6 — Arrays
+[]Day 6 — Arrays
 Project: Random Quote Picker
 
-Day 7 — Review Day
+[]Day 7 — Review Day
 Project: Logic Challenge Mini-App
 
 📌 Week 2 — DOM Basics
 
 Focus: selecting elements, events, updating UI
 
-Day 8 — DOM Selection
+[]Day 8 — DOM Selection
 Project: Change Text on Click
 
-Day 9 — Style Manipulation
+[]Day 9 — Style Manipulation
 Project: Color Changer
 
-Day 10 — Events
+[]Day 10 — Events
 Project: Click Counter
 
-Day 11 — Inputs
+[]Day 11 — Inputs
 Project: Basic Login UI
 
-Day 12 — DOM Manipulation
+[]Day 12 — DOM Manipulation
 Project: Todo List (basic)
 
-Day 13 — Images
+[]Day 13 — Images
 Project: Image Slider
 
-Day 14 — Review
+[]Day 14 — Review
 Project: Emoji Selector
 
 📌 Week 3 — Intermediate Concepts
 
 Focus: objects, array methods, storage, timers, keyboard events
 
-Day 15 — Objects
+[]Day 15 — Objects
 Project: User Profile Generator
 
-Day 16 — Array Methods (map/filter)
+[]Day 16 — Array Methods (map/filter)
 Project: Filter List App
 
-Day 17 — Local Storage
+[]Day 17 — Local Storage
 Project: Save Notes App
 
-Day 18 — JSON
+[]Day 18 — JSON
 Project: Product List Renderer
 
-Day 19 — Timers
+[]Day 19 — Timers
 Project: Digital Clock
 
-Day 20 — Keyboard Events
+[]Day 20 — Keyboard Events
 Project: Typing Speed Test
 
-Day 21 — Review
+[]Day 21 — Review
 Project: Personal Dashboard (clock + note + theme)
 
 📌 Week 4 — Async JavaScript
 
 Focus: fetch, promises, async/await, APIs, error handling
 
-Day 22 — fetch() Basics
+[]Day 22 — fetch() Basics
 Project: Random Joke Fetcher
 
-Day 23 — Promises
+[]Day 23 — Promises
 Project: Fake Loading Screen
 
-Day 24 — Async/Await
+[]Day 24 — Async/Await
 Project: Weather App (API)
 
-Day 25 — Error Handling
+[]Day 25 — Error Handling
 Project: “Failed to load data” Screen
 
-Day 26 — Async + DOM
+[]Day 26 — Async + DOM
 Project: Country Search API
 
-Day 27 — Pagination
+[]Day 27 — Pagination
 Project: User List with Next Button
 
-Day 28 — Review
+[]Day 28 — Review
 Project: Mini API Explorer
 
 📌 Final Stretch
 
-Day 29 — Rebuild One Project Better
+[]Day 29 — Rebuild One Project Better
 Take any earlier project and improve the UI, logic, or structure.
 
-Day 30 — Final Project
+[]Day 30 — Final Project
 Pick one:
 
 Todo App (advanced)
