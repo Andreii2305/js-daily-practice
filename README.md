@@ -2,7 +2,7 @@
 
 Focus: variables, operators, conditions, loops, functions, arrays
 
-[]Day 1 — Variables
+[✅]Day 1 — Variables
 Project: Name & Age Formatter
 
 []Day 2 — Operators
