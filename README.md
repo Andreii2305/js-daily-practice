@@ -5,10 +5,10 @@ Focus: variables, operators, conditions, loops, functions, arrays
 [✅]Day 1 — Variables
 Project: Name & Age Formatter
 
-[]Day 2 — Operators
+[✅]Day 2 — Operators
 Project: Simple Calculator
 
-[]Day 3 — Conditionals
+[✅]Day 3 — Conditionals
 Project: Grade Evaluator
 
 []Day 4 — Functions
