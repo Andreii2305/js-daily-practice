@@ -1,3 +1,9 @@
+Re-Learning Javascript again. Lesson Recapp each day. Will trying to be consistent for this project.
+
+Simple projects only so I don't get burned out and loss interest.
+
+STAY HARD F\*CKERS
+
 📌 Week 1 — Fundamentals
 
 Focus: variables, operators, conditions, loops, functions, arrays
