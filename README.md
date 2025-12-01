@@ -17,7 +17,7 @@ Project: Simple Calculator
 [✅]Day 3 — Conditionals
 Project: Grade Evaluator
 
-[]Day 4 — Functions
+[✅]Day 4 — Functions
 Project: Random Number Generator
 
 []Day 5 — Loops
