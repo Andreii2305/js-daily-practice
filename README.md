@@ -4,7 +4,7 @@ Simple projects only so I don't get burned out and loss interest.
 
 STAY HARD F\*CKERS
 
-📌 Week 1 — Fundamentals
+## 📌 Week 1 — Fundamentals
 
 Focus: variables, operators, conditions, loops, functions, arrays
 
@@ -20,7 +20,7 @@ Project: Grade Evaluator
 [✅]Day 4 — Functions
 Project: Random Number Generator
 
-[]Day 5 — Loops
+[✅]Day 5 — Loops
 Project: Multiplication Table
 
 []Day 6 — Arrays
@@ -29,7 +29,7 @@ Project: Random Quote Picker
 []Day 7 — Review Day
 Project: Logic Challenge Mini-App
 
-📌 Week 2 — DOM Basics
+## 📌 Week 2 — DOM Basics
 
 Focus: selecting elements, events, updating UI
 
@@ -54,7 +54,7 @@ Project: Image Slider
 []Day 14 — Review
 Project: Emoji Selector
 
-📌 Week 3 — Intermediate Concepts
+## 📌 Week 3 — Intermediate Concepts
 
 Focus: objects, array methods, storage, timers, keyboard events
 
@@ -79,7 +79,7 @@ Project: Typing Speed Test
 []Day 21 — Review
 Project: Personal Dashboard (clock + note + theme)
 
-📌 Week 4 — Async JavaScript
+## 📌 Week 4 — Async JavaScript
 
 Focus: fetch, promises, async/await, APIs, error handling
 
@@ -104,7 +104,7 @@ Project: User List with Next Button
 []Day 28 — Review
 Project: Mini API Explorer
 
-📌 Final Stretch
+## 📌 Final Stretch
 
 []Day 29 — Rebuild One Project Better
 Take any earlier project and improve the UI, logic, or structure.
